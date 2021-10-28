@@ -1,0 +1,5 @@
+Ivanov:17000
+Petrov:21000
+Sidorov:19000
+Ustinova:25000
+Trubova:45000
